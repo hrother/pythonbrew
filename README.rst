@@ -5,6 +5,13 @@ This project is no longer under active development.
 
 You are encouraged to try out `pyenv <https://github.com/yyuu/pyenv>`_ instead.
 
+Note
+----
+
+This is not an attempt to maintain the pythonbrew project. According to issue
+#143 of the original project, pythonbrew is now maintained by `pybank
+<https://github.com/pybank/pythonbrew>`_.
+
 Overview
 ========
 
